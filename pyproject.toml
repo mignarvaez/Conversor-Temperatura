@@ -2,7 +2,7 @@
 name = "conversor temperatura"
 version = "0.1.0"
 description = "Conversor básico de temperatura usando Tkinter"
-authors = ["MiguelAngelNarvaez <mignarvaez@umariana.edu.co>"]
+authors = ["MiguelAngelNarvaez"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
