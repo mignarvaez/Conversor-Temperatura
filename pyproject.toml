@@ -5,7 +5,7 @@ description = "Conversor básico de temperatura usando Tkinter"
 authors = ["MiguelAngelNarvaez"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 Pillow = "^8.2.0"
 
 [tool.poetry.dev-dependencies]
